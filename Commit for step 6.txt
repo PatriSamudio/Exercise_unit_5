@@ -1,0 +1,5 @@
+El sistema binario, también llamado sistema diádico1​ en ciencias de la computación,
+ es un sistema de numeración en el que los números son representados utilizando 
+únicamente dos cifras: 0 (cero) y 1 (uno). Es uno de los sistemas que se utilizan
+ en las computadoras, debido a que estas trabajan internamente con dos niveles 
+de voltaje, por lo cual su sistema de numeración natural es el sistema binario.
